@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311129266040",
+    "project_id": "cw6-firebase-crude",
+    "storage_bucket": "cw6-firebase-crude.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311129266040:android:8e5645ed9d8100eb0e5a8d",
+        "android_client_info": {
+          "package_name": "com.theetla.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxTr7Yz4vfs_fSVCkp-tbrRrYe5z9QwC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
